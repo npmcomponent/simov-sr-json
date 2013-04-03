@@ -1,0 +1,19 @@
+{
+    "obj": {
+        "num": 1,
+        "nul": null,
+        "str": "str",
+        "bol": true,
+        "obj": {
+            "arr": [
+                2,
+                null,
+                "str",
+                false,
+                {"str": "str", "arr": [], "obj": {}}
+            ],
+            "arr2": ["str"]
+        },
+        "arr": ["str"]
+    }
+}

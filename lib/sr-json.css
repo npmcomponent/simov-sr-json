@@ -1,0 +1,19 @@
+
+/*layout*/
+.sr-json { list-style: none; font-family: Monospace, Helvetica, Verdana, Arial, sans-serif; font-size: 14px; line-height: 17px; color: #f8f8f2; background: #000; padding: 0; margin: 0; }
+.sr-json * { outline: 0; padding: 0; margin: 0; }
+.sr-json ul { list-style: none; padding-left: 20px; }
+
+/*key*/
+.sr-json .key { color: #f8f8f2; }
+.sr-json .key:hover,
+.sr-json .key:focus { color: #f92672; cursor: pointer; }
+
+/*value*/
+.sr-json .str .value:hover,
+.sr-json .str .value:focus { box-shadow: 0px 0px 3px #f8f8f2; }
+
+.sr-json .str .value { color: #e6db74; }
+.sr-json .num .value { color: #fd971f; }
+.sr-json .nul .value { color: #ae81ff; }
+.sr-json .bool .value { color: #66d9ef; }

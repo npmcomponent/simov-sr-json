@@ -1,0 +1,19 @@
+{
+    "name": "sr-json",
+    "repo": "simov/sr-json",
+    "description": "JSON parser, render and serializer.",
+    "version": "1.0.0",
+    "keywords": ["json", "parser", "render", "serializer"],
+    "dependencies": {
+        "hogan": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "sr-file": "*"
+    },
+    "main": "lib/sr-json.js",
+    "scripts": ["lib/sr-json.js"],
+    "styles": ["lib/sr-json.css"],
+    "license": "MIT"
+}
