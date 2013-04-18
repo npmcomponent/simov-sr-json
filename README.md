@@ -4,10 +4,13 @@ sr-json
 JSON - parser, render and serializer
 
 ##Install
-Navigate to the project's directory and execute this line.
 
-```shell
-$ bower install
+```bash
+$ bower install sr-json
 ```
 
-If you don't have [bower](https://github.com/twitter/bower) already, make sure to [install](https://github.com/twitter/bower#installing-bower) it first.
+##Tests
+Make sure you check out the [test][1] page.
+
+
+  [1]: http://simov.github.io/sr-json/test/
