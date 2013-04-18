@@ -15,5 +15,6 @@
     "main": "lib/sr-json.js",
     "scripts": ["lib/sr-json.js"],
     "styles": ["lib/sr-json.css"],
+    "files": ["lib/sr-json.html"],
     "license": "MIT"
 }
